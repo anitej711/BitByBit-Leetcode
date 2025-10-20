@@ -8,7 +8,6 @@ Whether you're solving problems for interviews, skill improvement, or fun — th
 
 
 
-Please include the following details in the `README.md` file of **your forked repo**:
 
 | Field | Description |
 |:--|:--|
