@@ -21,10 +21,6 @@ Whether you're solving problems for interviews, skill improvement, or fun — th
 
 
 
-If you’re new to GitHub, check out this tutorial to learn how to fork, clone, and push your code step-by-step:
-
-🎥 **GitHub Forking & Uploading Tutorial:**  
-[Git Usage Tutorial](https://bit-by-bit-manual.vercel.app/assets/BitByBit.mp4)
 
 
 **Happy Coding! 💻**
